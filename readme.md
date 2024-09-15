@@ -23,4 +23,12 @@ static class Entry<T> implements Serializable {
     3. readme.md
 
 
+### Хеш-комита
+
+Хеш-комита означает некий идентификатор, где хранится вся информация, 
+где мы сохраняли и работали с данными.
+
+
+
+
 Связаться с автором: [Telegram](https://t.me/mr_advance)
